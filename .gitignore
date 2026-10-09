@@ -3,6 +3,7 @@ dist/
 *.log
 .DS_Store
 coverage/
+.env
 .mcp-settings.json
 data/
 tests/temp*
@@ -12,4 +13,3 @@ tests/temp*
 # Personal configuration files (with real paths)
 claude-config-*personal*.json
 *.backup
-config.bat
